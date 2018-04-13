@@ -14,9 +14,12 @@ use lukeyouell\sidebarthemes\models\Settings;
 use lukeyouell\sidebarthemes\assetbundles\sidebarthemes\ThemesAsset;
 
 use Craft;
-use craft\base\Plugin;
-use craft\events\TemplateEvent;
 use craft\web\View;
+use craft\base\Plugin;
+use craft\services\Plugins;
+use craft\helpers\UrlHelper;
+use craft\events\PluginEvent;
+use craft\events\TemplateEvent;
 
 use yii\base\Event;
 
@@ -68,6 +71,28 @@ class SidebarThemes extends Plugin
                 }
             );
         }
+
+        // Redirect to settings after installation
+        Event::on(
+            Plugins::class,
+            Plugins::EVENT_AFTER_INSTALL_PLUGIN,
+            function (PluginEvent $event) {
+                if ($event->plugin === $this) {
+                  Craft::$app->getResponse()->redirect(UrlHelper::cpUrl('settings/plugins/sidebar-themes'))->send();
+                }
+            }
+        );
+
+        // Redirect to settings after save
+        Event::on(
+            Plugins::class,
+            Plugins::EVENT_AFTER_SAVE_PLUGIN_SETTINGS,
+            function (PluginEvent $event) {
+                if ($event->plugin === $this) {
+                  Craft::$app->getResponse()->redirect(UrlHelper::cpUrl('settings/plugins/sidebar-themes'))->send();
+                }
+            }
+        );
     }
 
     /**
