@@ -45,3 +45,24 @@
 #app-info #edition.hot:hover #edition-logo > .edition-name {
   color: #fff;
 }
+
+#app-info #edition #edition-logo > .edition-trial {
+  background: none;
+  padding-left: 0;
+  color: rgba(255, 255, 255, .25);
+  transition: color linear 100ms;
+}
+
+body.ltr #app-info #edition #edition-logo > .edition-trial {
+  padding-left: 0;
+  margin: 0;
+}
+
+#app-info #edition #edition-logo > .edition-trial::before {
+  display: none;
+}
+
+#app-info #edition.hot:hover #edition-logo > .edition-trial {
+  background: none;
+  color: #fff;
+}
