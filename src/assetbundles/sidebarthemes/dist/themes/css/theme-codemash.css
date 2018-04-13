@@ -1,0 +1,43 @@
+#global-sidebar {
+  background: #0c84a9;
+}
+
+#global-sidebar a {
+  color: rgba(255, 255, 255, .8);
+}
+
+#global-sidebar > a:hover,
+#global-sidebar :not(.has-subnav) > a:hover {
+  background: #16a1c8;
+  color: #fff;
+}
+
+#global-sidebar #nav li:not(.has-subnav) > a.sel {
+  background: #94c53c;
+  color: #fff;
+}
+
+#global-sidebar #nav li a .badge {
+  background: #f67f01;
+  color: #fff;
+}
+
+#app-info {
+  color: rgba(255, 255, 255, .25);
+}
+
+#app-info #edition #edition-logo {
+  border-color: rgba(255, 255, 255, .25);
+}
+
+#app-info #version {
+  text-shadow: none;
+}
+
+#app-info #edition.hot:hover #edition-logo {
+  border-color: #fff;
+}
+
+#app-info #edition.hot:hover #edition-logo > .edition-name {
+  color: #fff;
+}

@@ -1,0 +1,47 @@
+#global-sidebar {
+  background: #263238;
+}
+
+#global-sidebar a {
+  color: rgba(255, 255, 255, .8);
+}
+
+#global-sidebar > a:hover,
+#global-sidebar :not(.has-subnav) > a:hover {
+  background: #546e7a;
+  color: #fff;
+}
+
+#global-sidebar #nav li:not(.has-subnav) > a.sel {
+  background: none;
+  color: #64fcda;
+}
+
+#global-sidebar #nav li a.sel .icon.icon-mask span[data-icon] {
+  color: #64fcda;
+}
+
+#global-sidebar #nav li a .badge {
+  background: #ff5252;
+  color: #fff;
+}
+
+#app-info {
+  color: rgba(255, 255, 255, .25);
+}
+
+#app-info #edition #edition-logo {
+  border-color: rgba(255, 255, 255, .25);
+}
+
+#app-info #version {
+  text-shadow: none;
+}
+
+#app-info #edition.hot:hover #edition-logo {
+  border-color: #fff;
+}
+
+#app-info #edition.hot:hover #edition-logo > .edition-name {
+  color: #fff;
+}

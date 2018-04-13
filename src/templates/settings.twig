@@ -1,0 +1,50 @@
+{# @var craft \craft\web\twig\variables\CraftVariable #}
+{#
+/**
+ * Sidebar Themes plugin for Craft CMS 3.x
+ *
+ * Sidebar Themes Settings.twig
+ *
+ * @author    Luke Youell
+ * @copyright Copyright (c) 2018 Luke Youell
+ * @link      https://github.com/lukeyouell
+ * @package   SidebarThemes
+ * @since     1.0.0
+ */
+#}
+
+{% import "_includes/forms" as forms %}
+
+{% do view.registerAssetBundle("lukeyouell\\sidebarthemes\\assetbundles\\sidebarthemes\\SettingsAsset") %}
+
+{% set iconPath = view.getAssetManager().getPublishedUrl('@lukeyouell/sidebarthemes/assetbundles/sidebarthemes/dist/themes/icons', true) %}
+
+{% if 'theme' in overrides %}
+  <p class="warning">The sidebar theme is being overridden in your sidebar-themes.php config file.</p>
+{% endif %}
+
+<div class="sidebar-themes">
+  {% for theme in themeOptions %}
+    <div class="theme">
+      <div class="theme-image">
+        <img src="{{ iconPath ~ '/' ~ theme.value ~ '.svg' }}" width="124" height="70">
+      </div>
+      <div class="theme-radio">
+        {{ forms.radio({
+            label:    theme.label,
+            id:       theme.value,
+            class:    'radio',
+            name:     'theme',
+            value:    theme.value,
+            checked:  theme.value == settings.theme ? true : false
+        })}}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+{% js %}
+  $(".theme").on('click', function() {
+    $(this).find(".radio").prop("checked", true);
+  });
+{% endjs %}
