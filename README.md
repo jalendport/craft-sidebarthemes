@@ -4,6 +4,8 @@
 
 Customise the look of the CP sidebar
 
+<img src="resources/img/screenshot.png" alt="screenshot">
+
 ## Requirements
 
 This plugin requires Craft CMS 3.0.1 or later.
