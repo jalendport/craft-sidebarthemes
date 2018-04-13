@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480">
+  <defs>
+    <style>
+      .sidebar-cls-1 { fill: #4f2f4c; }
+      .sidebar-cls-2, .sidebar-cls-3 { fill: #fff; }
+      .sidebar-cls-3 { fill-opacity: 0.36; }
+      .sidebar-cls-4 { fill: #d0ff00; }
+    </style>
+  </defs>
+  <title>sidebar-plugin</title>
+  <circle class="sidebar-cls-1" cx="240" cy="240" r="240"/>
+  <path class="sidebar-cls-2" d="M285.6,209.4,196.2,120l-14.1,14.1,23.8,23.8-51.5,51.5a14.91,14.91,0,0,0,0,21.2l55,55a15,15,0,0,0,21.2,0l55-55A14.91,14.91,0,0,0,285.6,209.4ZM172.1,220,220,172.1,267.9,220ZM290,270m20-35"/>
+  <path class="sidebar-cls-3" d="M120,320H360v40H120Z"/>
+  <path class="sidebar-cls-4" d="M310,235s-20,21.7-20,35a20,20,0,0,0,40,0C330,256.7,310,235,310,235Z"/>
+</svg>

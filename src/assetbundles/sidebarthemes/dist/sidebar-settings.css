@@ -1,0 +1,21 @@
+.warning {
+  margin-top: 0;
+}
+
+.sidebar-themes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.sidebar-themes .theme {
+  margin: 0 15px 15px 0;
+  cursor: pointer;
+}
+
+.sidebar-themes .theme-image img {
+  width: 124px;
+  height: 70px;
+}

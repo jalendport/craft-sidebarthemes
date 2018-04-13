@@ -1,0 +1,40 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #507800;
+      }
+
+      .cls-2 {
+        opacity: 0.8;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #ffea00;
+      }
+
+      .cls-5 {
+        fill: #f90;
+      }
+    </style>
+  </defs>
+  <title>citrus</title>
+  <rect class="cls-1" width="800" height="450" rx="40" ry="40"/>
+  <g class="cls-2">
+    <rect class="cls-3" x="70" y="70" width="300" height="40" rx="20" ry="20"/>
+  </g>
+  <rect class="cls-4" y="140" width="800" height="80"/>
+  <rect class="cls-1" x="70" y="160" width="450" height="40" rx="20" ry="20"/>
+  <rect class="cls-3" x="70" y="250" width="450" height="40" rx="20" ry="20"/>
+  <g class="cls-2">
+    <rect class="cls-3" x="70" y="340" width="450" height="40" rx="20" ry="20"/>
+  </g>
+  <rect class="cls-5" x="650" y="250" width="80" height="40" rx="20" ry="20"/>
+  <g class="cls-2">
+    <rect class="cls-3" x="70" y="430" width="450" height="40" rx="20" ry="20"/>
+  </g>
+</svg>

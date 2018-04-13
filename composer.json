@@ -1,0 +1,40 @@
+{
+    "name": "lukeyouell/craft-sidebarthemes",
+    "description": "Customise the look of the CP sidebar",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "sidebar themes"
+    ],
+    "support": {
+        "docs": "https://github.com/lukeyouell/craft-sidebarthemes/blob/master/README.md",
+        "issues": "https://github.com/lukeyouell/craft-sidebarthemes/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luke Youell",
+            "homepage": "https://github.com/lukeyouell"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "lukeyouell\\sidebarthemes\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Sidebar Themes",
+        "handle": "sidebar-themes",
+        "hasCpSettings": true,
+        "hasCpSection": false,
+        "changelogUrl": "https://raw.githubusercontent.com/lukeyouell/craft-sidebarthemes/master/CHANGELOG.md",
+        "class": "lukeyouell\\sidebarthemes\\SidebarThemes"
+    }
+}
