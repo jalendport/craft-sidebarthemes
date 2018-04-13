@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+### Changed
+- Updated required version of Craft in README
+
 ## 1.0.1 - 2018-04-13
 
 ### Added
