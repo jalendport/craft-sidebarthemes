@@ -8,7 +8,7 @@ Customise the look of the CP sidebar
 
 ## Requirements
 
-This plugin requires Craft CMS 3.0.1 or later.
+This plugin requires Craft CMS 3.0.0 or later.
 
 ## Installation
 
