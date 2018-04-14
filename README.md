@@ -47,6 +47,7 @@ return [
 Some things to do, and ideas for potential features:
 
 - Custom colour schemes
+- Ability to give users the option to choose their own theme
 - More themes!
 
 Brought to you by [Luke Youell](https://github.com/lukeyouell)
