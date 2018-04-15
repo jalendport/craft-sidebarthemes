@@ -22,6 +22,7 @@
 | Material | material |
 | Monument | monument |
 | Ochin | ochin |
+| Purple Daydream | purpledaydream |
 | Smooch | smooch |
 | Snazzy | snazzy |
 | Space Grey | spacegrey |
