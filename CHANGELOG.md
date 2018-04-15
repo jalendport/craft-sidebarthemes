@@ -2,10 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## 1.0.3 - 2018-04-15
 
 ### Added
-- 4 new themes
+- 8 new themes
+- [Full list of available themes](THEMES.md)
 
 ## 1.0.2 - 2018-04-13
 
