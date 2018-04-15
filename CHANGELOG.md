@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+### Added
+- 1 new theme
+
 ## 1.0.3 - 2018-04-15
 
 ### Added

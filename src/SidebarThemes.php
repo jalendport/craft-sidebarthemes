@@ -124,6 +124,7 @@ class SidebarThemes extends Plugin
             ['value' => 'ochin', 'label' => Craft::t('sidebar-themes', 'Ochin')],
             ['value' => 'smooch', 'label' => Craft::t('sidebar-themes', 'Smooch')],
             ['value' => 'snazzy', 'label' => Craft::t('sidebar-themes', 'Snazzy')],
+            ['value' => 'spacegrey', 'label' => Craft::t('sidebar-themes', 'Space Grey')],
             ['value' => 'spotify', 'label' => Craft::t('sidebar-themes', 'Spotify')],
             ['value' => 'springtree', 'label' => Craft::t('sidebar-themes', 'Spring Tree')],
             ['value' => 'symfony', 'label' => Craft::t('sidebar-themes', 'Symfony')],
