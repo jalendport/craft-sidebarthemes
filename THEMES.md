@@ -21,9 +21,13 @@
 | Linux | linux |
 | Material | material |
 | Monument | monument |
+| Netflix | netflix |
 | Ochin | ochin |
+| Playstation | playstation |
+| Purple Daydream | purpledaydream |
 | Smooch | smooch |
 | Snazzy | snazzy |
+| Space Grey | spacegrey |
 | Spotify | spotify |
 | Spring Tree | springtree |
 | Symfony | symfony |
