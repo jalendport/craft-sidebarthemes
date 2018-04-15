@@ -122,6 +122,7 @@ class SidebarThemes extends Plugin
             ['value' => 'material', 'label' => Craft::t('sidebar-themes', 'Material')],
             ['value' => 'monument', 'label' => Craft::t('sidebar-themes', 'Monument')],
             ['value' => 'ochin', 'label' => Craft::t('sidebar-themes', 'Ochin')],
+            ['value' => 'playstation', 'label' => Craft::t('sidebar-themes', 'Playstation')],
             ['value' => 'purpledaydream', 'label' => Craft::t('sidebar-themes', 'Purple Daydream')],
             ['value' => 'smooch', 'label' => Craft::t('sidebar-themes', 'Smooch')],
             ['value' => 'snazzy', 'label' => Craft::t('sidebar-themes', 'Snazzy')],
