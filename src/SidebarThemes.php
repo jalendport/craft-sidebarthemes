@@ -121,6 +121,7 @@ class SidebarThemes extends Plugin
             ['value' => 'linux', 'label' => Craft::t('sidebar-themes', 'Linux')],
             ['value' => 'material', 'label' => Craft::t('sidebar-themes', 'Material')],
             ['value' => 'monument', 'label' => Craft::t('sidebar-themes', 'Monument')],
+            ['value' => 'netflix', 'label' => Craft::t('sidebar-themes', 'Netflix')],
             ['value' => 'ochin', 'label' => Craft::t('sidebar-themes', 'Ochin')],
             ['value' => 'playstation', 'label' => Craft::t('sidebar-themes', 'Playstation')],
             ['value' => 'purpledaydream', 'label' => Craft::t('sidebar-themes', 'Purple Daydream')],

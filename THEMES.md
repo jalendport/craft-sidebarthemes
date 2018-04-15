@@ -21,6 +21,7 @@
 | Linux | linux |
 | Material | material |
 | Monument | monument |
+| Netflix | netflix |
 | Ochin | ochin |
 | Playstation | playstation |
 | Purple Daydream | purpledaydream |
