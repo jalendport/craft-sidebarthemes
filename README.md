@@ -38,9 +38,13 @@ Here’s what that config file might look like:
 <?php
 
 return [
-    'theme' => '',
+    'theme' => 'cobalt',
 ];
 ```
+
+## Available Themes
+
+A list of the available themes are available [here](THEMES.md)
 
 ## Sidebar Themes Roadmap
 
