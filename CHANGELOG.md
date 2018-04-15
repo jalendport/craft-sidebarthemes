@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## 1.0.4 - 2018-04-15
 
 ### Added
 - 4 new themes
