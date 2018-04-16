@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+### Changed
+- List of themes moved into `ThemesService`
+
 ## 1.0.4 - 2018-04-15
 
 ### Added
