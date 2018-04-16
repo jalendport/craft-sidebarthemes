@@ -13,6 +13,7 @@ namespace lukeyouell\sidebarthemes;
 use lukeyouell\sidebarthemes\SidebarThemes;
 
 use Craft;
+use craft\base\Component;
 
 /**
  * Class SidebarThemes
