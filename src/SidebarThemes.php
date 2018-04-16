@@ -11,7 +11,6 @@
 namespace lukeyouell\sidebarthemes;
 
 use lukeyouell\sidebarthemes\models\Settings;
-use lukeyouell\sidebarthemes\services\ThemeService;
 use lukeyouell\sidebarthemes\assetbundles\sidebarthemes\ThemesAsset;
 
 use Craft;
@@ -52,6 +51,10 @@ class SidebarThemes extends Plugin
     {
         parent::init();
         self::$plugin = $this;
+
+        $this->setComponents([
+            'themes' => services\ThemesService::class,
+        ]);
 
         // Fetch settings
         $settings = $this->getSettings();
@@ -125,7 +128,7 @@ class SidebarThemes extends Plugin
             [
                 'settings' => $this->getSettings(),
                 'overrides' => array_keys($overrides),
-                'themeOptions' => ThemeService::getThemes(),
+                'themeOptions' => $this->themes->getThemes(),
             ]
         );
     }

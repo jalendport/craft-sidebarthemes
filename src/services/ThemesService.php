@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2018 Luke Youell
  */
 
-namespace lukeyouell\sidebarthemes;
+namespace lukeyouell\sidebarthemes\services;
 
 use lukeyouell\sidebarthemes\SidebarThemes;
 
@@ -23,7 +23,7 @@ use craft\base\Component;
  * @since     1.0.0
  *
  */
-class ThemeService extends Component
+class ThemesService extends Component
 {
     // Public Methods
     // =========================================================================
