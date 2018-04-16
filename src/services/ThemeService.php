@@ -22,7 +22,7 @@ use Craft;
  * @since     1.0.0
  *
  */
-class ThemesService extends Component
+class ThemeService extends Component
 {
     // Public Methods
     // =========================================================================
