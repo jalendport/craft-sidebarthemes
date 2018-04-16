@@ -22,7 +22,7 @@ use Craft;
  * @since     1.0.0
  *
  */
-class SentryService extends Component
+class ThemesService extends Component
 {
     // Public Methods
     // =========================================================================
