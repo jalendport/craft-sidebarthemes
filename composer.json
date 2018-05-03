@@ -2,7 +2,7 @@
     "name": "lukeyouell/craft-sidebarthemes",
     "description": "Customise the look of the CP sidebar",
     "type": "craft-plugin",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "keywords": [
         "craft",
         "cms",
