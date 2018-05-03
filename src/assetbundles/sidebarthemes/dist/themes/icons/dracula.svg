@@ -1,29 +1,12 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
   <defs>
     <style>
-      .cls-1 {
-        fill: #282a36;
-      }
-
-      .cls-2 {
-        opacity: 0.8;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-
-      .cls-4 {
-        fill: #44475a;
-      }
-
-      .cls-5 {
-        fill: #8be9fd;
-      }
-
-      .cls-6 {
-        fill: #f55;
-      }
+      .cls-1{fill:#282a36}
+      .cls-2{opacity:.8}
+      .cls-3{fill:#fff}
+      .cls-4{fill:#44475a}
+      .cls-5{fill:#8be9fd}
+      .cls-6{fill:#f55}
     </style>
   </defs>
   <title>dracula</title>

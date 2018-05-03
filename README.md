@@ -4,7 +4,7 @@
 
 Customise the look of the CP sidebar
 
-<img src="resources/img/screenshot.png" alt="screenshot">
+<img src="resources/img/screenshot-1.0.5.png" alt="screenshot">
 
 ## Requirements
 

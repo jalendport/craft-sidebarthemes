@@ -1,25 +1,11 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
   <defs>
     <style>
-      .cls-1 {
-        fill: #0074b2;
-      }
-
-      .cls-2 {
-        opacity: 0.8;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-
-      .cls-4 {
-        fill: #00a2ff;
-      }
-
-      .cls-5 {
-        fill: #00ccc2;
-      }
+      .cls-1{fill:#0074b2}
+      .cls-2{opacity:.8}
+      .cls-3{fill:#fff}
+      .cls-4{fill:#00a2ff}
+      .cls-5{fill:#00ccc2}
     </style>
   </defs>
   <title>deepblue</title>
