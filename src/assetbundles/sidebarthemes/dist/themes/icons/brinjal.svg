@@ -1,25 +1,11 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
   <defs>
     <style>
-      .cls-1 {
-        fill: #4f2f4c;
-      }
-
-      .cls-2 {
-        opacity: 0.8;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-
-      .cls-4 {
-        fill: #8c5888;
-      }
-
-      .cls-5 {
-        fill: #de4c0d;
-      }
+      .cls-1{fill:#4f2f4c}
+      .cls-2{opacity:.8}
+      .cls-3{fill:#fff}
+      .cls-4{fill:#8c5888}
+      .cls-5{fill:#de4c0d}
     </style>
   </defs>
   <title>brinjal</title>

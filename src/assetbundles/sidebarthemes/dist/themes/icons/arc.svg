@@ -1,21 +1,10 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
   <defs>
     <style>
-      .cls-1 {
-        fill: #373d48;
-      }
-
-      .cls-2 {
-        opacity: 0.8;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-
-      .cls-4 {
-        fill: #5294e2;
-      }
+      .cls-1{fill:#373d48}
+      .cls-2{opacity:.8}
+      .cls-3{fill:#fff}
+      .cls-4{fill:#5294e2}
     </style>
   </defs>
   <title>arc</title>

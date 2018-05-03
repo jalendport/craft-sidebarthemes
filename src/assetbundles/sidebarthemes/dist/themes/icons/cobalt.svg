@@ -1,25 +1,11 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
   <defs>
     <style>
-      .cls-1 {
-        fill: #193549;
-      }
-
-      .cls-2 {
-        opacity: 0.8;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-
-      .cls-4 {
-        fill: #1d425d;
-      }
-
-      .cls-5 {
-        fill: #ffc600;
-      }
+      .cls-1{fill:#193549}
+      .cls-2{opacity:.8}
+      .cls-3{fill:#fff}
+      .cls-4{fill:#1d425d}
+      .cls-5{fill:#ffc600}
     </style>
   </defs>
   <title>cobalt</title>

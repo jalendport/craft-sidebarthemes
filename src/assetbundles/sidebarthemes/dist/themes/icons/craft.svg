@@ -1,25 +1,11 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
   <defs>
     <style>
-      .cls-1 {
-        fill: #333f4d;
-      }
-
-      .cls-2 {
-        opacity: 0.6;
-      }
-
-      .cls-3, .cls-4 {
-        fill: #fff;
-      }
-
-      .cls-4 {
-        opacity: 0.1;
-      }
-
-      .cls-5 {
-        opacity: 0.5;
-      }
+      .cls-1{fill:#333f4d}
+      .cls-2{opacity:.6}
+      .cls-3,.cls-4{fill:#fff}
+      .cls-4{opacity:.1}
+      .cls-5{opacity:.5}
     </style>
   </defs>
   <title>craft</title>
