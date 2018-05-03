@@ -10,7 +10,10 @@ All notable changes to this project will be documented in this file.
 ## 1.0.4 - 2018-04-15
 
 ### Added
-- 5 new themes
+- 6 new themes
+
+### Changed
+- SVG optimisation
 
 ## 1.0.3 - 2018-04-15
 

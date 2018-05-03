@@ -38,6 +38,7 @@ class ThemesService extends Component
             ['value' => 'autumn', 'label' => Craft::t('sidebar-themes', 'Autumn')],
             ['value' => 'bigred', 'label' => Craft::t('sidebar-themes', 'Big Red')],
             ['value' => 'bolket', 'label' => Craft::t('sidebar-themes', 'Bolket')],
+            ['value' => 'brinjal', 'label' => Craft::t('sidebar-themes', 'Brinjal')],
             ['value' => 'chocomint', 'label' => Craft::t('sidebar-themes', 'Choco Mint')],
             ['value' => 'citrus', 'label' => Craft::t('sidebar-themes', 'Citrus')],
             ['value' => 'cobalt', 'label' => Craft::t('sidebar-themes', 'Cobalt')],

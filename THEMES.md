@@ -9,6 +9,7 @@
 | Autumn | autumn |
 | Big Red | bigred |
 | Bolket | bolket |
+| Brinjal | brinjal |
 | Choco Mint | chocomint |
 | Citrus | citrus |
 | Cobalt | cobalt |
@@ -31,6 +32,7 @@
 | Spotify | spotify |
 | Spring Tree | springtree |
 | Symfony | symfony |
+| Thorough Care | thoroughcare |
 | Tomorrow | tomorrow |
 | Twitch | twitch |
 | Vue | vue |
