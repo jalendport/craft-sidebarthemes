@@ -60,6 +60,7 @@ class ThemesService extends Component
             ['value' => 'spotify', 'label' => Craft::t('sidebar-themes', 'Spotify')],
             ['value' => 'springtree', 'label' => Craft::t('sidebar-themes', 'Spring Tree')],
             ['value' => 'symfony', 'label' => Craft::t('sidebar-themes', 'Symfony')],
+            ['value' => 'thoroughcare', 'label' => Craft::t('sidebar-themes', 'Thorough Care')],
             ['value' => 'tomorrow', 'label' => Craft::t('sidebar-themes', 'Tomorrow')],
             ['value' => 'twitch', 'label' => Craft::t('sidebar-themes', 'Twitch')],
             ['value' => 'vue', 'label' => Craft::t('sidebar-themes', 'Vue')],
