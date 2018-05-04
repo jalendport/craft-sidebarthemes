@@ -11,7 +11,7 @@ Customise the look of the CP sidebar
 
 This plugin is licensed under an MIT license, which means that it's completely free open source software, and you can use it for whatever and however you wish. If you find this plugin useful, please consider supporting my work by buying me a coffee ☕ 😊
 
-[![Buy Me a Coffee at ko-fi.com](https://az743702.vo.msecnd.net/cdn/kofi3.png | height=36)](https://ko-fi.com/O4O0D1L3)
+[<img height="36" src="https://az743702.vo.msecnd.net/cdn/kofi3.png" alt="Buy Me a Coffee at ko-fi.com"](https://ko-fi.com/O4O0D1L3)
 
 <img src="resources/img/screenshot-1.0.5.png" alt="screenshot">
 
