@@ -7,6 +7,12 @@
 
 Customise the look of the CP sidebar
 
+## Support Open Source
+
+This plugin is licensed under an MIT license, which means that it's completely free open source software, and you can use it for whatever and however you wish. If you find this plugin useful, please consider supporting my work by buying me a coffee ☕ 😊
+
+[![](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lukeyouell)
+
 <img src="resources/img/screenshot-1.0.5.png" alt="screenshot">
 
 ## Requirements
