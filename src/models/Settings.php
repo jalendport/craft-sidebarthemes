@@ -4,19 +4,19 @@
  *
  * Customise the look of the CP sidebar
  *
- * @link      https://github.com/lukeyouell
- * @copyright Copyright (c) 2018 Luke Youell
+ * @link      https://github.com/jalendport
+ * @copyright Copyright (c) 2018 Jalen Davenport
  */
 
-namespace lukeyouell\sidebarthemes\models;
+namespace jalendport\sidebarthemes\models;
 
-use lukeyouell\sidebarthemes\SidebarThemes;
+use jalendport\sidebarthemes\SidebarThemes;
 
 use Craft;
 use craft\base\Model;
 
 /**
- * @author    Luke Youell
+ * @author    Jalen Davenport
  * @package   SidebarThemes
  * @since     1.0.0
  */

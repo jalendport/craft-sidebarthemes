@@ -4,20 +4,20 @@
  *
  * Customise the look of the CP sidebar
  *
- * @link      https://github.com/lukeyouell
- * @copyright Copyright (c) 2018 Luke Youell
+ * @link      https://github.com/jalendport
+ * @copyright Copyright (c) 2018 Jalen Davenport
  */
 
-namespace lukeyouell\sidebarthemes\assetbundles\SidebarThemes;
+namespace jalendport\sidebarthemes\assetbundles\SidebarThemes;
 
-use lukeyouell\sidebarthemes\SidebarThemes;
+use jalendport\sidebarthemes\SidebarThemes;
 
 use Craft;
 use craft\web\AssetBundle;
 use craft\web\assets\cp\CpAsset;
 
 /**
- * @author    Luke Youell
+ * @author    Jalen Davenport
  * @package   SidebarThemes
  * @since     1.0.0
  */
@@ -33,7 +33,7 @@ class SettingsAsset extends AssetBundle
     {
         $settings = SidebarThemes::$plugin->getSettings();
 
-        $this->sourcePath = "@lukeyouell/sidebarthemes/assetbundles/sidebarthemes/dist";
+        $this->sourcePath = "@jalendport/sidebarthemes/assetbundles/sidebarthemes/dist";
 
         $this->depends = [
             CpAsset::class,

@@ -1,7 +1,7 @@
 <img src="src/icon.svg" alt="icon" width="100" height="100">
 
-![](https://img.shields.io/github/release/lukeyouell/craft-sidebarthemes.svg?style=flat)
-![](https://img.shields.io/packagist/dt/lukeyouell/craft-sidebarthemes.svg?style=flat)
+![](https://img.shields.io/github/release/jalendport/craft-sidebarthemes.svg?style=flat)
+![](https://img.shields.io/packagist/dt/jalendport/craft-sidebarthemes.svg?style=flat)
 
 # Sidebar Themes plugin for Craft CMS 3
 
@@ -11,7 +11,7 @@ Customise the look of the CP sidebar
 
 This plugin is licensed under an MIT license, which means that it's completely free open source software, and you can use it for whatever and however you wish. If you find this plugin useful, please consider supporting my work by buying me a beer 🍻😊
 
-[![Beerpay](https://beerpay.io/lukeyouell/craft-sidebarthemes/badge.svg?style=beer-square)](https://beerpay.io/lukeyouell/craft-sidebarthemes)
+[![Beerpay](https://beerpay.io/jalendport/craft-sidebarthemes/badge.svg?style=beer-square)](https://beerpay.io/lukeyouell/craft-sidebarthemes)
 
 <img src="resources/img/screenshot-1.0.5.png" alt="screenshot">
 
@@ -29,7 +29,7 @@ To install the plugin, either install via the plugin store or follow these instr
 
 2. Then tell Composer to load the plugin:
 
-        composer require lukeyouell/craft-sidebarthemes
+        composer require jalendport/craft-sidebarthemes
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Sidebar Themes.
 

@@ -4,14 +4,14 @@
  *
  * Customise the look of the CP sidebar
  *
- * @link      https://github.com/lukeyouell
- * @copyright Copyright (c) 2018 Luke Youell
+ * @link      https://github.com/jalendport
+ * @copyright Copyright (c) 2018 Jalen Davenport
  */
 
-namespace lukeyouell\sidebarthemes;
+namespace jalendport\sidebarthemes;
 
-use lukeyouell\sidebarthemes\models\Settings;
-use lukeyouell\sidebarthemes\assetbundles\sidebarthemes\ThemesAsset;
+use jalendport\sidebarthemes\models\Settings;
+use jalendport\sidebarthemes\assetbundles\sidebarthemes\ThemesAsset;
 
 use Craft;
 use craft\web\View;
@@ -26,7 +26,7 @@ use yii\base\Event;
 /**
  * Class SidebarThemes
  *
- * @author    Luke Youell
+ * @author    Jalen Davenport
  * @package   SidebarThemes
  * @since     1.0.0
  *

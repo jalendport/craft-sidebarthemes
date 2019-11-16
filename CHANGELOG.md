@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
+
+## 1.1.0 - 2019-11-16
+
+Transfer of ownership 👀
+
 ## 1.0.5 - 2018-05-03
 
 ### Added
@@ -32,7 +38,7 @@ All notable changes to this project will be documented in this file.
 - Updated required version of Craft in README
 
 ### Fixed
-- Fixed missing style for license trial logo ([#7](https://github.com/lukeyouell/craft-sidebarthemes/issues/7))
+- Fixed missing style for license trial logo ([#7](https://github.com/jalendport/craft-sidebarthemes/issues/7))
 
 ## 1.0.1 - 2018-04-13
 
