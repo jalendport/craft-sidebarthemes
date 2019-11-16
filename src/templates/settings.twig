@@ -5,9 +5,9 @@
  *
  * Sidebar Themes Settings.twig
  *
- * @author    Luke Youell
- * @copyright Copyright (c) 2018 Luke Youell
- * @link      https://github.com/lukeyouell
+ * @author    Jalen Davenport
+ * @copyright Copyright (c) 2018 Jalen Davenport
+ * @link      https://github.com/jalendport
  * @package   SidebarThemes
  * @since     1.0.0
  */
@@ -15,9 +15,9 @@
 
 {% import "_includes/forms" as forms %}
 
-{% do view.registerAssetBundle("lukeyouell\\sidebarthemes\\assetbundles\\sidebarthemes\\SettingsAsset") %}
+{% do view.registerAssetBundle("jalendport\\sidebarthemes\\assetbundles\\sidebarthemes\\SettingsAsset") %}
 
-{% set iconPath = view.getAssetManager().getPublishedUrl('@lukeyouell/sidebarthemes/assetbundles/sidebarthemes/dist/themes/icons', true) %}
+{% set iconPath = view.getAssetManager().getPublishedUrl('@jalendport/sidebarthemes/assetbundles/sidebarthemes/dist/themes/icons', true) %}
 
 {% if 'theme' in overrides %}
   <p class="warning">The sidebar theme is being overridden in your sidebar-themes.php config file.</p>
